@@ -9,6 +9,7 @@ const { cors } = require('./middlewares/cors');
 
 const app = express();
 const PORT = 3002;
+console.log(PORT)
 
 connectToDatabase();
 
