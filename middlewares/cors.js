@@ -1,4 +1,5 @@
 const allowedCors = [
+  "backend.nomoredomainswork.ru",
   "http://looalhost:3000",
   "http://looalhost:3002"
 ];
