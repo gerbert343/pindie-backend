@@ -1,8 +1,6 @@
 const allowedCors = [
-  "http://pindie--backend.nomoredomainswork.ru",
-  "https://pindie--backend.nomoredomainswork.ru",
   "http://looalhost:3000",
-  "http://looalhost:3001"
+  "http://looalhost:3005"
 ];
 
 
