@@ -1,7 +1,7 @@
 [{
+  "_id": {
     "$oid": "66001dcb912e93034cf26a59"
   },
-  {
   "title": "Crystal Keeper",
   "description": "Управляй боевым дроном, чтобы любой ценой защитить кристалл от враждебных космо-слизней.",
   "developer": "Lonely Baobab",
