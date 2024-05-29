@@ -1,6 +1,6 @@
 const allowedCors = [
   "http://looalhost:3000",
-  "http://looalhost:3005"
+  "http://looalhost:3001"
 ];
 
 
